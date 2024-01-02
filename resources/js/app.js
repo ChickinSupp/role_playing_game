@@ -42,3 +42,39 @@ const locations = [
 button1.onclick = goStore;
 button2.onclick = goCave;
 button3.onclick = fightDragon;
+
+function update(location) {
+    
+  }
+  
+  function goTown() {
+    
+  }
+  
+  function goStore() {
+    
+  }
+  
+  function goCave() {
+    
+  }
+  
+  function fightDragon() {
+    
+  }
+  
+  function buyHealth() {
+    
+  }
+  
+  function buyWeapon() {
+  
+  }
+  
+  function fightSlime() {
+  
+  }
+  
+  function fightBeast() {
+  
+  }
